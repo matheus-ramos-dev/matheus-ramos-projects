@@ -1,49 +1,42 @@
-# Meus Projetos
+# 📁 Matheus Ramos – Projetos de Software
 
-👤 Autor: Matheus Ramos  
+👤 **Autor:** Matheus Ramos  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Engenharia de Software  
-🚀 Estudos em Java, JavaScript, Python, HTML, Backend e Frontend
 
-🚀 Tecnologias em estudo:  
-Java • JavaScript • Python • HTML • Backend • Frontend  
+🚀 **Tecnologias em estudo:**  
+Java • JavaScript • Python • HTML • CSS • Backend • Frontend  
 
-theus/
+---
+
+## 📂 Estrutura do Repositório
+
+Matheus-Ramos-Projects/
 ├── frontend/ # HTML, CSS e JavaScript
-├── backend/ # Java e Python
+├── backend/ # Java, Python e JavaScript
 ├── banco-de-dados/ # SQL
 ├── projetos/ # Projetos práticos
 └── README.md
 
+---
 
 ---
+
 ## 📌 Objetivo
 Organizar meus estudos e projetos práticos para evolução como desenvolvedor de software.
 
 ---
 
-## 📄 Documentação por Pasta
-- `frontend/README.md`
-- `backend/README.md`
-
+## 🎨 Frontend
+Projetos e estudos utilizando HTML, CSS e JavaScript para criação de interfaces web responsivas e funcionais.
 
 ---
 
-## 🔎 O que eu corrigi (importante)
-✔️ Separei melhor as seções  
-✔️ Evitei texto solto no final  
-✔️ Deixei claro que **Frontend** tem README próprio  
-✔️ Padrão usado por empresas e recrutadores  
+## ⚙️ Backend
+Projetos e estudos em Java, Python e JavaScript voltados para lógica de servidor, APIs e regras de negócio.
 
 ---
 
-## 📄 Agora faça assim dentro das pastas
+## 🗄️ Banco de Dados
+Estudos e práticas com SQL, modelagem de dados e integração com aplicações backend.
 
-### 📁 `frontend/README.md`
-```md
-## Frontend
-HTML, CSS e JavaScript para interfaces web.
-
-📁 backend/README.md
-## Backend
-Java e Python para lógica de servidor e APIs.
